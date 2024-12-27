@@ -25,7 +25,6 @@
 - [![Email](https://img.shields.io/badge/Email-george.castrejoncorp%40gmail.com-green)](mailto:george.castrejoncorp@gmail.com)
 - [![GitHub Profile](https://img.shields.io/badge/GitHub-Profile-blue)](https://github.com/georgecastrejon)
 - [![GitHub Page](https://img.shields.io/badge/GitHub-Page-lightgrey)](https://georgecastrejon.github.io/)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/gcastrejon/)
 - [![Telegram](https://img.shields.io/badge/Telegram-Channel-blue)](https://t.me/georgecastrejon)
 
 Feel free to reach out if you have any questions, or suggestions, or just want to chat!
