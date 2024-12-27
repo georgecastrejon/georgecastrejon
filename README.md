@@ -27,7 +27,7 @@
 - [![GitHub Page](https://img.shields.io/badge/GitHub-Page-lightgrey)](https://georgecastrejon.github.io/)
 - [![Telegram](https://img.shields.io/badge/Telegram-Channel-blue)](https://t.me/georgecastrejon)
 
-Feel free to reach out if you have any questions, or suggestions, or just want to chat!
+Feel free to contact me if you have any questions, suggestions or just want to chat!
 
 Thanks for visiting my GitHub profile! 
 
