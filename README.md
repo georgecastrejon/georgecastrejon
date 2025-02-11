@@ -8,22 +8,17 @@
 
 ## 🔭  Projects - Test Automation Frameworks
 
-- ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
   ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-  ![Appium](https://img.shields.io/badge/Appium-40C4FF?style=for-the-badge&logo=appium&logoColor=white)
-  ![Rest Assured](https://img.shields.io/badge/Rest%20Assured-5B47A5?style=for-the-badge&logo=rest-assured&logoColor=white)
   ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
   ![Playwright](https://img.shields.io/badge/Playwright-34495E?style=for-the-badge&logo=playwright&logoColor=white)
-
-## 📈 GitHub Stats
-
-![Georgecastrejon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=georgecastrejon&show_icons=true&theme=radical)
+  ![Appium](https://img.shields.io/badge/Appium-40C4FF?style=for-the-badge&logo=appium&logoColor=white)
+  ![Rest Assured](https://img.shields.io/badge/Rest%20Assured-5B47A5?style=for-the-badge&logo=rest-assured&logoColor=white)
+  ![Karate DSL](https://img.shields.io/badge/Karate%20DSL-17202C?style=for-the-badge&logo=karate&logoColor=white)
 
 
 ## 📧 Let's Connect
 
-- [![Email](https://img.shields.io/badge/Email-george.castrejoncorp%40gmail.com-green)](mailto:george.castrejoncorp@gmail.com)
-- [![GitHub Profile](https://img.shields.io/badge/GitHub-Profile-blue)](https://github.com/georgecastrejon)
+- [![Email](https://img.shields.io/badge/Email-sandovalcastrejon%40gmail.com-green)](mailto:sandovalcastrejon@gmail.com)
 - [![GitHub Page](https://img.shields.io/badge/GitHub-Page-lightgrey)](https://georgecastrejon.github.io/)
 - [![Telegram](https://img.shields.io/badge/Telegram-Channel-blue)](https://t.me/georgecastrejon)
 
